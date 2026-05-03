@@ -1,4 +1,3 @@
-================================================================================
 HYBRID FRAUD ANOMALY DETECTION IN MOBILE MONEY TRANSACTIONS
 Using a Long-Range Transformer Model and Relational Database Anomaly Scoring
 ================================================================================
@@ -157,8 +156,3 @@ GitHub repository: https://github.com/Kelsey-SG/Fraud_Detection_System_Capstone.
   inference on data/test_data.csv, fuses the result with SQL scores
   (or zeros if the database is unavailable), and writes
   deployment_results.csv to the project root.
-
-
-================================================================================
-End of readme
-================================================================================
